@@ -1,2 +1,3 @@
 # r-demo
-this is my first git repo
+author - rajkive
+this is my first Git Repository
